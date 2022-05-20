@@ -1,0 +1,22 @@
+:root {
+    background-color: rgb(223, 146, 146);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+div#forma {
+  
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    border-radius: 100%;
+    cursor: pointer;
+
+    padding: 10px;
